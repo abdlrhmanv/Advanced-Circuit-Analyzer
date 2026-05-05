@@ -22,10 +22,9 @@ I'm **Abdlrhman Ismail**, a Senior Computer Engineering student at **Ain Shams U
 
 ```
 Advanced-Circuit-Analyzer/
-├── main.cpp                                    # Source code (fully documented, Doxygen-style)
-├── Advanced Circuit Analyzer Project.cbp       # Code::Blocks project file
-├── .gitignore                                  # Git ignore rules
-└── README.md                                   # ← You are here
+├── main.cpp          # Source code (fully documented, Doxygen-style)
+├── .gitignore        # Git ignore rules
+└── README.md         # ← You are here
 ```
 
 ---
