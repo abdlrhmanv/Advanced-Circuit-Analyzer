@@ -1,0 +1,30 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.d
+
+# Directories
+bin/
+obj/
+build/
+Debug/
+Release/
+
+# Code::Blocks IDE
+*.layout
+*.depend
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
